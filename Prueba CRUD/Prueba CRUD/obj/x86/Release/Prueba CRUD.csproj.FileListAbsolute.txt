@@ -1,0 +1,8 @@
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\bin\Release\Prueba CRUD.exe.config
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\bin\Release\Prueba CRUD.exe
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\bin\Release\Prueba CRUD.pdb
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\obj\x86\Release\Prueba_CRUD.Form1.resources
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\obj\x86\Release\Prueba_CRUD.Properties.Resources.resources
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\obj\x86\Release\Prueba CRUD.csproj.GenerateResource.Cache
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\obj\x86\Release\Prueba CRUD.exe
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\obj\x86\Release\Prueba CRUD.pdb

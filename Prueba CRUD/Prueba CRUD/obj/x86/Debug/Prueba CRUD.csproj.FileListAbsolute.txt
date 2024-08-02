@@ -1,0 +1,9 @@
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\bin\Debug\Prueba CRUD.exe.config
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\bin\Debug\Prueba CRUD.exe
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\bin\Debug\Prueba CRUD.pdb
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\obj\x86\Debug\Prueba_CRUD.Form1.resources
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\obj\x86\Debug\Prueba_CRUD.Properties.Resources.resources
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\obj\x86\Debug\Prueba CRUD.csproj.GenerateResource.Cache
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\obj\x86\Debug\Prueba CRUD.exe
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\obj\x86\Debug\Prueba CRUD.pdb
+C:\Users\J REYNOSA\Documents\Visual Studio 2010\Projects\Prueba CRUD\Prueba CRUD\obj\x86\Debug\Prueba CRUD.csprojResolveAssemblyReference.cache
